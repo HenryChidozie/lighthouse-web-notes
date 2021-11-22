@@ -5,3 +5,5 @@
 ## Summary
 
 This repository contains all of the notes taken by Henry for the Lighthouse Labs Web Development Bootcamp.
+
+This repository contains all of the notes taken by [Henry](https://github.com/HenryChidozie) for the Lighthouse Labs Web Development Bootcamp.
